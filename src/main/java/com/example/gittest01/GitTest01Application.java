@@ -7,7 +7,6 @@ import org.springframework.stereotype.Component;
 
 @SpringBootApplication
 public class GitTest01Application {
-
     public static void main(String[] args) {
         SpringApplication.run(GitTest01Application.class, args);
     }
